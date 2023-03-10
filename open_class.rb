@@ -1,6 +1,6 @@
 class String
   def double_string
-    return "#{self},#{self}"
+   "#{self},#{self}"
   end
 end
 
