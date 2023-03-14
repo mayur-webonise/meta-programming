@@ -4,6 +4,7 @@ class Compony
     @name=name
     @address=address
   end
+
   def add_employee
     puts "instance  method"   
   end

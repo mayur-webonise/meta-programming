@@ -3,6 +3,7 @@ class Student
     @standard=standard
     @name=name
   end
+
   def show_details
     puts "name     : #{@name}"
     puts "standard : #{@standard}"
@@ -17,4 +18,5 @@ puts student_1.instance_variable_get(:@name)
 #changing name by setter method
 student_1.instance_variable_set(:@name,"shubham")
 student_1.show_details
+
 

@@ -24,3 +24,4 @@ employee_1.show_details
 employee_1.get_salary
 employee_2.show_details
 employee_2.get_salary
+
